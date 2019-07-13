@@ -4,7 +4,7 @@
     
 Steps to be followed after cloneing the URL
 
-    cd instagram
+    cd Instagram-BruteForce
     
     nano pass.txt (you can add more passwords here according to your needs by default it's just a empty file)
     
